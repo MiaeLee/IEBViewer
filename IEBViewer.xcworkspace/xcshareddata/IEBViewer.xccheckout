@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D3EA6045-CF5B-4ECE-93B1-2E0EC98CBFFC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IEBViewer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>67620B5EFA902936DF04070AF595B76AB0333747</key>
+		<string>https://github.com/Alamofire/Alamofire.git</string>
+		<key>D52DD0C4E02C2ADD52652CA6D5A0ED7F0ECC4165</key>
+		<string>https://github.com/ja3ck/IEBViewer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IEBViewer.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>67620B5EFA902936DF04070AF595B76AB0333747</key>
+		<string>..Alamofire/</string>
+		<key>D52DD0C4E02C2ADD52652CA6D5A0ED7F0ECC4165</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ja3ck/IEBViewer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D52DD0C4E02C2ADD52652CA6D5A0ED7F0ECC4165</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67620B5EFA902936DF04070AF595B76AB0333747</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Alamofire</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D52DD0C4E02C2ADD52652CA6D5A0ED7F0ECC4165</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IEBViewer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
