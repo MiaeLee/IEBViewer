@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		62E426591AD4D6DB00FE2083 /* aa.epub in Resources */ = {isa = PBXBuildFile; fileRef = 62E426581AD4D6DB00FE2083 /* aa.epub */; };
 		A904E136EDF474B80CDEC738 /* libPods-IEBViewer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7858E6BAC8A40154D1AE8795 /* libPods-IEBViewer.a */; };
 		EA7306AD1AD3DD880034E0C2 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA7306A61AD3DD6C0034E0C2 /* Alamofire.framework */; };
 		EA7306AE1AD3DD880034E0C2 /* Alamofire.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = EA7306A61AD3DD6C0034E0C2 /* Alamofire.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
@@ -79,6 +80,7 @@
 
 /* Begin PBXFileReference section */
 		2CFDDBBC8280CDDE40F348C4 /* Pods-IEBViewer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IEBViewer.release.xcconfig"; path = "Pods/Target Support Files/Pods-IEBViewer/Pods-IEBViewer.release.xcconfig"; sourceTree = "<group>"; };
+		62E426581AD4D6DB00FE2083 /* aa.epub */ = {isa = PBXFileReference; lastKnownFileType = file; path = aa.epub; sourceTree = "<group>"; };
 		7858E6BAC8A40154D1AE8795 /* libPods-IEBViewer.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-IEBViewer.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		857B5C75BCE6CB975668C1E8 /* Pods-IEBViewer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IEBViewer.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IEBViewer/Pods-IEBViewer.debug.xcconfig"; sourceTree = "<group>"; };
 		EA73069E1AD3DD6C0034E0C2 /* Alamofire.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Alamofire.xcodeproj; path = Alamofire/Alamofire.xcodeproj; sourceTree = "<group>"; };
@@ -169,6 +171,7 @@
 			isa = PBXGroup;
 			children = (
 				EA8ED2D21AD3D3EF0079B647 /* AppDelegate.swift */,
+				62E426581AD4D6DB00FE2083 /* aa.epub */,
 				EA8ED2D41AD3D3EF0079B647 /* ViewController.swift */,
 				EA8ED2D61AD3D3EF0079B647 /* Main.storyboard */,
 				EA8ED2D91AD3D3EF0079B647 /* Images.xcassets */,
@@ -327,6 +330,7 @@
 				EA8ED2D81AD3D3EF0079B647 /* Main.storyboard in Resources */,
 				EA8ED2DD1AD3D3EF0079B647 /* LaunchScreen.xib in Resources */,
 				EA8ED2DA1AD3D3EF0079B647 /* Images.xcassets in Resources */,
+				62E426591AD4D6DB00FE2083 /* aa.epub in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
